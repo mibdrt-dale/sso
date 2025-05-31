@@ -275,8 +275,8 @@ ServiceFabricBackup/
 *- [Bb]ackup ([0-9]).rdl
 *- [Bb]ackup ([0-9][0-9]).rdl
 
-# Microsoft Fakes
-FakesAssemblies/
+# Microsoft 
+Assemblies/
 
 # GhostDoc plugin setting file
 *.GhostDoc.xml
@@ -306,8 +306,7 @@ _Pvt_Extensions
 .paket/paket.exe
 paket-files/
 
-# FAKE - F# Make
-.fake/
+# 
 
 # CodeRush personal settings
 .cr/personal
